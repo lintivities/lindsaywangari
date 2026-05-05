@@ -22,10 +22,16 @@ I'm a software developer in progress passionate about building systems and inter
 ### 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lintivities\&show_icons=true\&theme=tokyonight)
+---
+
+
+
 
 ### 🔥 Streak
 
 ![Streak](https://streak-stats.demolab.com/?user=lintivities\&theme=tokyonight)
+
+---
 
 ### 🧾 Languages
 
