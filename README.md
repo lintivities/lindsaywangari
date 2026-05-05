@@ -21,11 +21,9 @@ I'm a software developer in progress passionate about building systems and inter
 
 ### 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lintivities\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lintivities\&show_icons=true\&theme=tokyonight)
+
 ---
-
-
-
 
 ### 🔥 Streak
 
@@ -35,7 +33,7 @@ I'm a software developer in progress passionate about building systems and inter
 
 ### 🧾 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintivities\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lintivities\&layout=compact\&theme=tokyonight)
 
 ---
 
