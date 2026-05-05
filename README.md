@@ -50,7 +50,7 @@ I'm a software developer in progress passionate about building systems and inter
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/lintivities/lintivities/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lintivities/lindsaywangari/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
