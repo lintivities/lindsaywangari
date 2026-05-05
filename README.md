@@ -1,10 +1,11 @@
+![Visitors](https://komarev.com/ghpvc/?username=lintivities\&color=blueviolet\&style=for-the-badge)
 
 
 
 # 👋 Hey, I'm Lindsay
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&pause=1000&color=D34BF7&width=435&lines=Software+Developer%2C+Tech+Enthusiast+" alt="Typing SVG" /></a>
 
-🚀 Software Developer | Tech Enthusiast
+
 
 
 🔥 Learning: C#, Java,Python Backend Systems
@@ -45,6 +46,9 @@ I'm a software developer in progress with a strong interest in building real-wor
 
 
 
+![Stats](https://github-readme-stats.vercel.app/api?username=lintivities\&show_icons=true\&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=lintivities\&theme=tokyonight)
 
 
 
