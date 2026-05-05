@@ -16,8 +16,11 @@
 I'm a software developer in progress with a strong interest in building real-world systems and interactive experiences.
 
 💻 I enjoy working across different areas of tech — from backend systems to game development
+
 🎮 Currently developing projects like *Stick Trials*, while expanding beyond games into software engineering
+
 📚 Continuously learning and improving my skills in C#, Java, Python, and C++
+
 🛠️ I like understanding how things work under the hood, not just making them work
 
 ⚡ Right now, my focus is on:
@@ -54,5 +57,7 @@ I'm a software developer in progress with a strong interest in building real-wor
 </p>
 
 💬 Open to internships, collaboration, and learning opportunities
+
+
 🚀 Always building and improving
 
