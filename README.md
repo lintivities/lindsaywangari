@@ -8,32 +8,35 @@
 
 
 
-🔥 Learning: C#, Java,Python Backend Systems
+# 👋 Hey, I'm Lindsay
+
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Software+Developer;Unity+Game+Creator;Future+Tech+Engineer)
+
+![Visitors](https://komarev.com/ghpvc/?username=lintivities\&color=blueviolet\&style=for-the-badge)
 
 ---
 
 ## 🧠 About Me
 
-I'm a software developer in progress with a strong interest in building real-world systems and interactive experiences.
+I'm a software developer in progress passionate about building systems and interactive experiences.
 
-💻 I enjoy working across different areas of tech — from backend systems to game development
+---
 
-🎮 Currently developing projects like *Stick Trials*, while expanding beyond games into software engineering
+## ⚡ Dashboard
 
-📚 Continuously learning and improving my skills in C#, Java, Python, and C++
+### 📊 Stats
 
-🛠️ I like understanding how things work under the hood, not just making them work
+![Stats](https://github-readme-stats.vercel.app/api?username=lintivities\&show_icons=true\&theme=tokyonight)
 
-⚡ Right now, my focus is on:
+### 🔥 Streak
 
-* Writing cleaner, more efficient code
-* Building projects that solve real problems
-* Growing into an industry-ready developer
+![Streak](https://streak-stats.demolab.com/?user=lintivities\&theme=tokyonight)
 
-🙏 I believe in consistency, discipline, and trusting God through the journey
+### 🧾 Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintivities\&layout=compact\&theme=tokyonight)
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -44,24 +47,18 @@ I'm a software developer in progress with a strong interest in building real-wor
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase)
 
+---
 
+## 🐍 Contribution Snake
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lintivities\&show_icons=true\&theme=tokyonight)
+![Snake animation](https://github.com/lintivities/lintivities/blob/output/github-contribution-grid-snake.svg)
 
-![Streak](https://streak-stats.demolab.com/?user=lintivities\&theme=tokyonight)
+---
 
+## 📫 Connect
 
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 📫 Let’s Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lindsay-wangari-4a550a3b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-💬 Open to internships, collaboration, and learning opportunities
-
-
-🚀 Always building and improving
 
