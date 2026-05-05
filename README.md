@@ -48,7 +48,7 @@ I'm a software developer in progress with a strong interest in building real-wor
 ## 📫 Let’s Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lindsay-wangari-/" target="_blank">
+  <a href="https://www.linkedin.com/in/lindsay-wangari-4a550a3b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
