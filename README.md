@@ -8,11 +8,6 @@
 
 
 
-# 👋 Hey, I'm Lindsay
-
-![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Software+Developer;Unity+Game+Creator;Future+Tech+Engineer)
-
-![Visitors](https://komarev.com/ghpvc/?username=lintivities\&color=blueviolet\&style=for-the-badge)
 
 ---
 
